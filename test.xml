@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say>Question1</Say>
+    <Say voice="alice">Question1</Say>
         <Play>http://wasonisgood.me/new-phone/q1.mp3</Play>
             <Record timeout="5" transcribe="false" />
-            <Say>Question2</Say>
+            <Say voice="alice">Question2</Say>
                 <Play>http://wasonisgood.me/new-phone/q2.mp3</Play>
                     <Record timeout="5" transcribe="false" />
-                    <Say> byebye</Say>
+                    <Say voice="alice"> byebye</Say>
                     </Response>
