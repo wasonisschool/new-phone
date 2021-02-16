@@ -4,7 +4,7 @@
         <play>q1.mp3</play>
             <Record timeout="5" transcribe="false" />
             <say>Question2</say>
-                <play>q2.mp3<play>
+                <play>q2.mp3</play>
                     <Record timeout="10" transcribe="false" />
                     <say> byebye</say>
                     </Response>
